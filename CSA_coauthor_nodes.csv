@@ -1,42 +1,42 @@
-id,degree,weighted_degree,betweenness
-AISE,22,22,0
-AISI,22,22,0
-AIVD,22,22,0
-ASD ACSC,38,64,0.1064835164835165
-AW (Poland),22,22,0
-BIS (Czech),17,17,0
-BND,22,22,0
-BSI,22,22,0
-BfV,32,39,0.045961538
-CERT NZ,7,13,0
-CERT-UA,17,17,0
-CISA,40,73,0.20135531135531137
-CNI (Spain),22,22,0
-CSE (Canada),17,17,0
-CSIS (Canada),32,39,0.045961538
-Canadian Centre for Cyber Security (CCCS),29,47,0.040009158
-DC3,22,22,0
-DOT,12,12,0
-DTRA,12,12,0
-FAA,12,12,0
-FBI,40,73,0.20135531135531137
-HHS,3,3,0
-Japan NCO,22,22,0
-Japan NPA,22,22,0
-KAPO (Estonia),17,17,0
-MIVD,32,39,0.045961538
-MS-ISAC,3,7,0
-NCSC-NZ,29,41,0.040009158
-NCSC-UK,38,64,0.1064835164835165
-NSA,38,66,0.1064835164835165
-NÚKIB (Czech),22,22,0
-SBU (Ukraine),17,17,0
-SKW (Poland),22,22,0
-SUPO (Finland),22,22,0
-TSA,12,12,0
-U.S. State (RFJ),17,17,0
-U.S. Treasury,17,17,0
-USCG CYBER,12,12,0
-USCYBERCOM CNMF,24,29,0.029166666666666674
-VDD (Latvia),17,17,0
-VZ (Czech),17,17,0
+id,Country
+AISE,Italy
+AISI,Italy
+AIVD,Netherlands
+ASD ACSC,Australia
+AW,Poland
+BIS,Czech Republic
+BND,Germany
+BSI,Germany
+BfV,Germany
+CERT NZ,New Zealand
+CERT-UA,Ukraine
+CISA,United States
+CNI,Spain
+CSE,Canada
+CSIS,Canada
+Canadian Centre for Cyber Security,Canada
+DC3,United States
+DOT,United States
+DTRA,United States
+FAA,United States
+FBI,United States
+HHS,United States
+Japan NCO,Japan
+Japan NPA,Japan
+KAPO,Estonia
+MIVD,Netherlands
+MS-ISAC,United States
+NCSC-NZ,New Zealand
+NCSC-UK,United Kingdom
+NSA,United States
+NÚKIB,Czech Republic
+SBU,Ukraine
+SKW,Poland
+SUPO,Finland
+TSA,United States
+U.S. State,United States
+U.S. Treasury,United States
+USCG CYBER,United States
+USCYBERCOM CNMF,United States
+VDD,Latvia
+VZ,Czech Republic
